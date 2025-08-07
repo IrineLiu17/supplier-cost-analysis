@@ -2,7 +2,7 @@
 
 # Supplier Cost Analysis and Anomaly Detection
 
-This project simulates a real-world garment production scenario at H&M. It provides an end-to-end system for:
+This project simulates a real-world garment production scenario. It provides an end-to-end system for:
 
 - Cleaning standardized supplier quotation data
 - Detecting cost anomalies using IQR and Isolation Forest
